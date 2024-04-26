@@ -18,8 +18,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 ```
 #Program to solve a matrix using Gaussian elimination with partial pivoting.
-#Developed by: Sharukesh T 
-#RegisterNumber: 2305002022
+#Developed by: Srinath N 
+#RegisterNumber: 2305003009
 
 import numpy as np
 import sys
@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/adhi2k/Gaussian/assets/145216997/43fb6d11-75b4-49b4-9170-06d739abed93)
+![image](https://github.com/adhi2k/Gaussian/assets/145216997/12c92f97-3a1c-492b-8113-d1abd01019ac)
 
 
 ## Result:
