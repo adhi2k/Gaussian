@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![DIVYA GAUSSIAN](https://user-images.githubusercontent.com/119393424/216230590-d43bdefe-5e4f-41e9-a761-5b049e626a65.png)
+![image](https://github.com/adhi2k/Gaussian/assets/145216997/bae69757-aa15-4779-8fb5-41948d3031a6)
 
 
 ## Result:
