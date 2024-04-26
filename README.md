@@ -19,7 +19,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 Program to solve a matrix using Gaussian elimination with partial pivoting.
 Developed by: Yoga varma 
-RegisterNumber: 2305003029
+RegisterNumber: 2305002029
 
 import numpy as np
 import sys
@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/adhi2k/Gaussian/assets/145216997/d8bb9740-c59e-4f8c-811f-413ce7813eb0)
+![image](https://github.com/adhi2k/Gaussian/assets/145216997/47b91e0e-d14f-4334-a4a5-386a8050b0dd)
 
 
 ## Result:
